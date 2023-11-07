@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/diku8Kb.png" width="20" height="20"/> Calejoin_FE
+# <img src="https://i.imgur.com/diku8Kb.png" width="20" height="20"/> Calejoin
 
 ### 바쁜 현대인의 일정 관리를 위한 공유 캘린더 플랫폼, Calejoin
 간편한 일정 조율 지원 및 다이어리형 SNS 제공
