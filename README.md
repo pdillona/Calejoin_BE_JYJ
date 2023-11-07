@@ -5,8 +5,8 @@
 
 + 개발기간 : 23.10.31 - 23.12.08
 + 배포주소 : (배포기간 00.00.00 ~ 00.00.00)
-+ BackEnd : <a href="https://github.com/yun-setenforce/Calejoin_BE">https://github.com/yun-setenforce/Calejoin_BE</a>
-+ FrontEnd : <a href="https://github.com/yun-setenforce/Calejoin_FE">https://github.com/yun-setenforce/Calejoin_FE</a>
++ <a href="https://github.com/yun-setenforce/Calejoin_BE">BE Git</a>
++ <a href="https://github.com/yun-setenforce/Calejoin_FE">FE Git</a>
 + 📕 <a href="https://www.notion.so/chhak0503/3-79b60ae38e8c46fd999ea763071188ae">팀 노션</a>
 
 # 🛠️ Stack
