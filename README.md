@@ -8,6 +8,7 @@
 + <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="20" height="20"><a href="https://github.com/yun-setenforce/Calejoin_BE">BE Git</a> / <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="20" height="20"><a href="https://github.com/yun-setenforce/Calejoin_FE">FE Git</a>
 + 📕 <a href="https://www.notion.so/chhak0503/3-79b60ae38e8c46fd999ea763071188ae">팀 노션</a>
 
+
 # 🛠️ Stack
 
 ### FE
@@ -18,6 +19,14 @@ Java, Spring, MySQL, Spring Boot, Spring Security, Gradle, AmazonEC2
 
 ### Tool 
 Git, Github, Slack, Notion, XD 
+
+
+# ⏳ Version 
+
+### 0.0.1-SNAPSHOT
++ 프로젝트 구조 설계
++ 프로젝트 화면 구현
+
 
 # 👥 Team
 👽 정채윤 <a href="https://github.com/yun-setenforce">yun-setenforce</a>
